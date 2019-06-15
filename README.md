@@ -1,7 +1,7 @@
 # Panoptic Segmentation 
-## Internship @ AI Without Borders 
+#### Internship @ AI Without Borders 
 
-### Literature Study
+##### Literature Study
 
 |  Paper | Good To Know | Constraints | Code | Dataset used |
 | :--- | :--- | :--- | :--- | :--- |
