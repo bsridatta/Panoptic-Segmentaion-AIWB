@@ -1,4 +1,4 @@
-# Panoptic Segmentation - aiwb_intern19
+# Panoptic Segmentation - Internship @ AI Without Borders 
 
 ### Literature Study
 
