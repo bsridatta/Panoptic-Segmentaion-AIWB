@@ -16,6 +16,6 @@
 | :--- | :--- | :--- |
 |  [COCO 2018](http://cocodataset.org/index.htm#panoptic-2018 "COCO 2018") | Things, regions (Road, grass, water) | panoptic quality (PQ) |
 |  [ADE20k](https://groups.csail.mit.edu/vision/datasets/ADE20K/ "ADE20k") | Things, regions and parts of things | Pixel Accuracy and IoU |
-|  [Mapillary Vistas](https://www.mapillary.com/dataset/vistas "Mapillary Vistas") | Street Scenes |  |
+|  [Mapillary Vistas](https://www.mapillary.com/dataset/vistas "Mapillary Vistas") | Street Scenes | - |
 |  [CityScapes](https://www.cityscapes-dataset.com/benchmarks/#panoptic-scene-labeling-task "CityScapes") | City/Street Scenes | PQ |
 |  [Bio-Segmentation](https://bioimage.ucsb.edu/research/bio-segmentation "Bio-Segmentation") | Breast Cancer Cell, Liver etc<br/> | Custom Script |
