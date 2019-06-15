@@ -1,5 +1,5 @@
 # Panoptic Segmentation 
-#### Internship @ AI Without Borders 
+##### Internship @ AI Without Borders 
 
 ##### Literature Study
 
