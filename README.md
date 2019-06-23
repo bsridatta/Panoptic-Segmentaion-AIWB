@@ -17,6 +17,7 @@
 ### Datasets
 
 Specifically for Panoptic Segementation
+
 |  Datasets | Description |
 | :--- | :--- |
 |  [COCO 2018](http://cocodataset.org/index.htm#panoptic-2018 "COCO 2018") | Things, regions (Road, grass, water) |
@@ -26,6 +27,7 @@ Specifically for Panoptic Segementation
 
 
 Medical Image Datasets
+
 |  Datasets | Description |
 | :--- | :--- |
 |  [2017 MICCAI Digital Pathology Challenge dataset](http://miccai.cloudapp.net/competitions/83 "2017 MICCAI Digital Pathology Challenge dataset") | Segmentation of Nuclei in Images. Dataset used in a paper for panoptic segmentation.<br/>Could not gain access to the dataset |
