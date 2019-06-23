@@ -16,14 +16,17 @@
 ## Week - 2
 ### Datasets
 
-|  Datasets specifically for Panoptic Segementation | Description |
+Specifically for Panoptic Segementation
+|  Datasets | Description |
 | :--- | :--- |
 |  [COCO 2018](http://cocodataset.org/index.htm#panoptic-2018 "COCO 2018") | Things, regions (Road, grass, water) |
 |  [ADE20k](https://groups.csail.mit.edu/vision/datasets/ADE20K/ "ADE20k") | Things, regions and parts of things |
 |  [Mapillary Vistas](https://www.mapillary.com/dataset/vistas "Mapillary Vistas") | Street Scenes |
 |  [CityScapes](https://www.cityscapes-dataset.com/benchmarks/#panoptic-scene-labeling-task "CityScapes") | City/Street Scenes |
 
-|  Medical Image Datasets | Description |
+
+Medical Image Datasets
+|  Datasets | Description |
 | :--- | :--- |
 |  [2017 MICCAI Digital Pathology Challenge dataset](http://miccai.cloudapp.net/competitions/83 "2017 MICCAI Digital Pathology Challenge dataset") | Segmentation of Nuclei in Images. Dataset used in a paper for panoptic segmentation.<br/>Could not gain access to the dataset |
 |  [Leukemia ALL-IDB](https://homes.di.unimi.it/scotti/all/ "Leukemia ALL-IDB") | (White) Blood cell classification. Looks suitable but have to download to know how the data is. |
