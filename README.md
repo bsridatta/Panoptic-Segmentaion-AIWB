@@ -14,13 +14,11 @@
 
 
 ## Week - 2
-### Panoptic Datasets
+### Datasets
 
-|  Dataset | Classes | Evaluation Metrics |
-| :--- | :--- | :--- |
-|  [COCO 2018](http://cocodataset.org/index.htm#panoptic-2018 "COCO 2018") | Things, regions (Road, grass, water) | panoptic quality (PQ) |
-|  [ADE20k](https://groups.csail.mit.edu/vision/datasets/ADE20K/ "ADE20k") | Things, regions and parts of things | Pixel Accuracy and IoU |
-|  [Mapillary Vistas](https://www.mapillary.com/dataset/vistas "Mapillary Vistas") | Street Scenes | - |
-|  [CityScapes](https://www.cityscapes-dataset.com/benchmarks/#panoptic-scene-labeling-task "CityScapes") | City/Street Scenes | PQ |
-|  2017 MICCAI Digital Pathology Challenge dataset | Could not gain access - could be http://www.andrewjanowczyk.com/deep-learning/ or https://bioimage.ucsb.edu/research/bio-segmentation or  maybe should create one ourself for the task | - |
-
+|  Datasets specifically for Panoptic Segementation | Description |
+| :--- | :--- |
+|  [COCO 2018](http://cocodataset.org/index.htm#panoptic-2018 "COCO 2018") | Things, regions (Road, grass, water) |
+|  [ADE20k](https://groups.csail.mit.edu/vision/datasets/ADE20K/ "ADE20k") | Things, regions and parts of things |
+|  [Mapillary Vistas](https://www.mapillary.com/dataset/vistas "Mapillary Vistas") | Street Scenes |
+|  [CityScapes](https://www.cityscapes-dataset.com/benchmarks/#panoptic-scene-labeling-task "CityScapes") | City/Street Scenes |
