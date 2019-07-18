@@ -54,3 +54,6 @@ Quick annotaion of objects using 'Magic wand' to annotate disconnected objects o
 [voc2coco](https://github.com/yukkyo/voc2coco)  
 Convert annotation format from voc to coco. Also contains direct instructions for the BCCD dataset [ Blood Cells Detection](https://github.com/Shenggan/BCCD_Dataset " Blood Cells Detection") mentioned above.
 
+## Week - 4
+### Trying to get some annotation
+Setting up coco annotator
