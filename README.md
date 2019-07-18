@@ -55,5 +55,12 @@ Quick annotaion of objects using 'Magic wand' to annotate disconnected objects o
 Convert annotation format from voc to coco. Also contains direct instructions for the BCCD dataset [ Blood Cells Detection](https://github.com/Shenggan/BCCD_Dataset " Blood Cells Detection") mentioned above.
 
 ## Week - 4
-### Trying to get some annotation
-Setting up coco annotator
+### Downlaoding and reading annotation and trying the tools to make custom annotations
+Setting up coco annotator docker. Downlaoding and coverting BCCD from VOC to coco. Takes quite some time to fully annotate each image. Very imbalanced instances. 
+Reading artifact detection EAD dataset. Too many instances of blur and contrast which is immpossible to annotate for panoptic.
+### Scraping the web one last time for a good dataset 
+no luck
+
+## Week - 5
+### Going through the code 
+
