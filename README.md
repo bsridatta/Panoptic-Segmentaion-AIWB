@@ -2,7 +2,7 @@
 ##### Internship @ AI Without Borders   
 
 ## Week - 1 
-### Literature Study
+### Literature Study - Panoptic Segmentation
 
 |  Paper | bottom line | Constraints | Code | Dataset used |
 | :--- | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@
 
 
 ## Week - 2&3 
-### Datasets
+### Datasets and corresponding literature
 
 Specifically for Panoptic Segementation
 
