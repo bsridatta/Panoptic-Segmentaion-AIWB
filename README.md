@@ -13,7 +13,7 @@
 
 
 
-## Week - 2
+## Week - 2&3 
 ### Datasets
 
 Specifically for Panoptic Segementation
@@ -24,7 +24,6 @@ Specifically for Panoptic Segementation
 |  [ADE20k](https://groups.csail.mit.edu/vision/datasets/ADE20K/ "ADE20k") | Things, regions and parts of things |
 |  [Mapillary Vistas](https://www.mapillary.com/dataset/vistas "Mapillary Vistas") | Street Scenes |
 |  [CityScapes](https://www.cityscapes-dataset.com/benchmarks/#panoptic-scene-labeling-task "CityScapes") | City/Street Scenes |
-
 
 Medical Image Datasets
 
@@ -45,8 +44,7 @@ Medical Image Datasets
 |  [List of Cancer Cell Datasets for DL](http://www.andrewjanowczyk.com/deep-learning/ "List of Cancer Cell Datasets for DL") | Good datasets with multiclass classification but mostly for object detection (1 instance) |
 
 
-
-## Week - 3
+## Week - 4
 ### Annotation tools and label format conversions
 [Coco Annotator](https://github.com/jsbroks/coco-annotator/wiki)   
 Quick annotaion of objects using 'Magic wand' to annotate disconnected objects or with the help of an API that fetches annotations from a semi-trained network. 
@@ -54,7 +52,6 @@ Quick annotaion of objects using 'Magic wand' to annotate disconnected objects o
 [voc2coco](https://github.com/yukkyo/voc2coco)  
 Convert annotation format from voc to coco. Also contains direct instructions for the BCCD dataset [ Blood Cells Detection](https://github.com/Shenggan/BCCD_Dataset " Blood Cells Detection") mentioned above.
 
-## Week - 4
 ### Downlaoding and reading annotation and trying the tools to make custom annotations
 Setting up coco annotator docker. Downlaoding and coverting BCCD from VOC to coco. Takes quite some time to fully annotate each image. Very imbalanced instances. 
 Reading artifact detection EAD dataset. Too many instances of blur and contrast which is immpossible to annotate for panoptic.
