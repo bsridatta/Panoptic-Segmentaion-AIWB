@@ -34,7 +34,7 @@ Medical Image Datasets
 |  [Leukemia ALL-IDB](https://homes.di.unimi.it/scotti/all/ "Leukemia ALL-IDB") | (White) Blood cell classification. Looks suitable but have to download to know how the data is. |
 |  [Multi-class artefact detection in video endoscopy](https://ead2019.grand-challenge.org/EAD2019/ "Multi-class artefact detection in video endoscopy") | Perfect dataset! But annotations are bounding box and not segementation. Have time to annotate? |
 |  [ Blood Cells Detection](https://github.com/Shenggan/BCCD_Dataset " Blood Cells Detection") | Again perfect dataset! But annotations are bounding box and not segementation. Have time to annotate? |
-|  [BACH](https://iciar2018-challenge.grand-challenge.org/Dataset/ "BACH") | Breast Cancer Histology Images. 1 huge whole slides with multiple classes and instances but cropped into 400 which mostly 1 instance and 1 class |
+|  [BACH](https://iciar2018-challenge.grand-challenge.org/Dataset/ "BACH") | Breast Cancer Histology Images. 1 huge whole slides with multiple classes and instances but cropped into 400 which mostly 1 instance and 1 class | 
 |  [Melanoma, Skin Cancer](https://challenge2018.isic-archive.com/task1/training/ "Melanoma, Skin Cancer") | (Object segmentation)  Multi class segmentaion with 1 instance. |
 |  [Segmentation of neuronal structures in EM stacks Home](http://brainiac2.mit.edu/isbi_challenge/ "Segmentation of neuronal structures in EM stacks Home") | Cell boundaries hence good for normal segmentation only |
 |  [Nuclear Segmentation](https://www.dropbox.com/s/j3154xgkkpkri9w/IEEE_TMI_NuceliSegmentation.pdf?dl=0 "Nuclear Segmentation") | Good segmentation dataset but only nuclei, boundaries and background. Bascially 2 classes |
@@ -43,3 +43,14 @@ Medical Image Datasets
 |  [The cell Image Library](http://cellimagelibrary.org/pages/datasets "The cell Image Library") | Database |
 |  [ImageJ](https://imagej.net/Public_data_sets "ImageJ") | Database - Small |
 |  [List of Cancer Cell Datasets for DL](http://www.andrewjanowczyk.com/deep-learning/ "List of Cancer Cell Datasets for DL") | Good datasets with multiclass classification but mostly for object detection (1 instance) |
+
+
+
+## Week - 3
+### Annotation tools and label format conversions
+[Coco Annotator](https://github.com/jsbroks/coco-annotator/wiki)   
+Quick annotaion of objects using 'Magic wand' to annotate disconnected objects or with the help of an API that fetches annotations from a semi-trained network. 
+
+[voc2coco](https://github.com/yukkyo/voc2coco)  
+Convert annotation format from voc to coco. Also contains direct instructions for the BCCD dataset [ Blood Cells Detection](https://github.com/Shenggan/BCCD_Dataset " Blood Cells Detection") mentioned above.
+
