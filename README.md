@@ -61,6 +61,6 @@ Reading artifact detection EAD dataset. Too many instances of blur and contrast 
 ### Scraping the web one last time for a good dataset 
 no luck
 
-## Week - 5
-### Going through the code 
-
+## Week - 5&6
+### UPSNet 
+Going through the code of UPSNet and trying to get some predictions
