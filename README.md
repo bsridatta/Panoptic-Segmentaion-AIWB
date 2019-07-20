@@ -47,9 +47,10 @@ Medical Image Datasets
 ## Week - 4
 ### Annotation tools and label format conversions
 [Coco Annotator](https://github.com/jsbroks/coco-annotator/wiki)   
-Quick annotaion of objects using 'Magic wand' to annotate disconnected objects or with the help of an API that fetches annotations from a semi-trained network. But may be too challenging to annotate every pixel for panoptic segmentation
+Quick annotaion of objects using 'Magic wand' to annotate disconnected objects or with the help of an API that fetches annotations from a semi-trained network. But may be too challenging not to miss any pixels while using magic wand or brush tool.
 
-[PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) Pesudo Semi automated annotation tool which uses opencv watershed segmentation for annotaing all pixels. May be ideal for our needs
+[PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)   
+Pesudo Semi automated annotation tool which uses opencv watershed segmentation for annotaing all pixels. May be ideal for our needs
 
 [voc2coco](https://github.com/yukkyo/voc2coco)  
 Convert annotation format from voc to coco. Also contains direct instructions for the BCCD dataset [ Blood Cells Detection](https://github.com/Shenggan/BCCD_Dataset " Blood Cells Detection") mentioned above.
